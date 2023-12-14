@@ -4429,6 +4429,10 @@
 	branch = main
 	path = packages/modules/Permission
 	url = ../../packages/modules/Permission
+[submodule "platform/packages/modules/Profiling"]
+	branch = main
+	path = packages/modules/Profiling
+	url = ../../packages/modules/Profiling
 [submodule "platform/packages/modules/RemoteKeyProvisioning"]
 	branch = main
 	path = packages/modules/RemoteKeyProvisioning
@@ -4848,6 +4852,11 @@
 	shallow = true
 	path = prebuilts/module_sdk/Permission
 	url = ../../prebuilts/module_sdk/Permission
+[submodule "platform/prebuilts/module_sdk/Profiling"]
+	branch = main
+	shallow = true
+	path = prebuilts/module_sdk/Profiling
+	url = ../../prebuilts/module_sdk/Profiling
 [submodule "platform/prebuilts/module_sdk/RemoteKeyProvisioning"]
 	branch = main
 	shallow = true
