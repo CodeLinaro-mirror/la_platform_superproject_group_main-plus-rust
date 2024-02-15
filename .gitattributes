@@ -1324,7 +1324,6 @@
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/android_rust
-/toolchain/benchmark
 /toolchain/cargo-deny
 /toolchain/cargo-vet
 /toolchain/common
