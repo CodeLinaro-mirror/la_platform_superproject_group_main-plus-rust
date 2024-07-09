@@ -361,6 +361,7 @@
 /external/libkmsxx pdk
 /external/liblc3 pdk
 /external/libldac pdk
+/external/libmonet pdk
 /external/libmpeg2 pdk
 /external/libnetfilter_conntrack pdk
 /external/libnfnetlink pdk
