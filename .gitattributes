@@ -1291,7 +1291,6 @@
 /system/hardware/interfaces pdk
 /system/hwservicemanager pdk
 /system/incremental_delivery pdk
-/system/iorap pdk
 /system/keymaster pdk
 /system/keymint pdk
 /system/libartpalette pdk
