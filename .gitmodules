@@ -1360,6 +1360,10 @@
 	branch = main
 	path = external/libdrm
 	url = ../../external/libdrm
+[submodule "platform/external/libedit"]
+	branch = main
+	path = external/libedit
+	url = ../../external/libedit
 [submodule "platform/external/libepoxy"]
 	branch = main
 	path = external/libepoxy
@@ -1653,6 +1657,10 @@
 	branch = main
 	path = external/naver-fonts
 	url = ../../external/naver-fonts
+[submodule "platform/external/ncurses"]
+	branch = main
+	path = external/libncurses
+	url = ../../external/ncurses
 [submodule "platform/external/neon_2_sse"]
 	branch = main
 	path = external/neon_2_sse
@@ -3634,6 +3642,10 @@
 	branch = main
 	path = external/swiftshader
 	url = ../../external/swiftshader
+[submodule "platform/external/swig"]
+	branch = main
+	path = external/swig
+	url = ../../external/swig
 [submodule "platform/external/tagsoup"]
 	branch = main
 	path = external/tagsoup
@@ -5491,6 +5503,10 @@
 	branch = main
 	path = toolchain/android_rust
 	url = ../../../toolchain/android_rust
+[submodule "toolchain/binutils"]
+	branch = main
+	path = toolchain/binutils
+	url = ../../../toolchain/binutils
 [submodule "toolchain/cargo-deny"]
 	branch = main
 	path = toolchain/cargo-deny
@@ -5503,15 +5519,35 @@
 	branch = main
 	path = toolchain/common
 	url = ../../../toolchain/common
+[submodule "toolchain/llvm-project"]
+	branch = main
+	path = toolchain/llvm-project
+	url = ../../../toolchain/llvm-project
+[submodule "toolchain/llvm_android"]
+	branch = main
+	path = toolchain/llvm_android
+	url = ../../../toolchain/llvm_android
 [submodule "toolchain/pgo-profiles"]
 	branch = main
 	shallow = true
 	path = toolchain/pgo-profiles
 	url = ../../../toolchain/pgo-profiles
+[submodule "toolchain/prebuilts/ndk/releases"]
+	branch = main
+	path = toolchain/prebuilts/ndk/releases
+	url = ../../../toolchain/prebuilts/ndk/releases
+[submodule "toolchain/prebuilts/sysroot/platform/riscv64-linux-android"]
+	branch = main
+	path = toolchain/prebuilts/sysroot/platform/riscv64-linux-android
+	url = ../../../toolchain/prebuilts/sysroot/platform/riscv64-linux-android
 [submodule "toolchain/rustc"]
 	branch = main
 	path = toolchain/rustc
 	url = ../../../toolchain/rustc
+[submodule "toolchain/xz"]
+	branch = main
+	path = toolchain/xz
+	url = ../../../toolchain/xz
 [submodule "tools/platform-compat"]
 	branch = main
 	path = tools/platform-compat

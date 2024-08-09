@@ -331,6 +331,7 @@
 /external/libdav1d pdk
 /external/libdivsufsort pdk
 /external/libdrm pdk
+/external/libedit
 /external/libepoxy pdk
 /external/libese pdk
 /external/libevent pdk
@@ -404,6 +405,7 @@
 /external/nanohttpd pdk
 /external/nanopb-c pdk
 /external/naver-fonts pdk
+/external/libncurses
 /external/neon_2_sse pdk
 /external/neven pdk
 /external/newfs_msdos pdk
@@ -899,6 +901,7 @@
 /external/strace pdk
 /external/subsampling-scale-image-view pdk
 /external/swiftshader pdk
+/external/swig
 /external/tagsoup pdk
 /external/tcpdump pdk
 /external/tensorflow pdk
@@ -1344,11 +1347,17 @@
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/android_rust
+/toolchain/binutils
 /toolchain/cargo-deny
 /toolchain/cargo-vet
 /toolchain/common
+/toolchain/llvm-project
+/toolchain/llvm_android
 /toolchain/pgo-profiles pdk
+/toolchain/prebuilts/ndk/releases
+/toolchain/prebuilts/sysroot/platform/riscv64-linux-android
 /toolchain/rustc
+/toolchain/xz
 /tools/platform-compat pdk-fs pdk-cw-fs pdk
 /trusty/user/app/avb trusty
 /trusty/user/app/cast-auth trusty
