@@ -899,6 +899,7 @@
 /external/starlark-go pdk
 /external/stg pdk
 /external/strace pdk
+/external/stressapptest pdk
 /external/subsampling-scale-image-view pdk
 /external/swiftshader pdk
 /external/swig
