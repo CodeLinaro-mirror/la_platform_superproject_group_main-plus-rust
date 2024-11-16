@@ -2188,6 +2188,14 @@
 	branch = main
 	path = external/rust/crates/tinyjson
 	url = ../../external/rust/crates/tinyjson
+[submodule "platform/external/rust/crates/ucs2"]
+	branch = main
+	path = external/rust/crates/ucs2
+	url = ../../external/rust/crates/ucs2
+[submodule "platform/external/rust/crates/uguid"]
+	branch = main
+	path = external/rust/crates/uguid
+	url = ../../external/rust/crates/uguid
 [submodule "platform/external/rust/crates/v4l2r"]
 	branch = main
 	path = external/rust/crates/v4l2r
