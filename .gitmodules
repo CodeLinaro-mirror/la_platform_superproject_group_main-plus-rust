@@ -3536,6 +3536,11 @@
 	shallow = true
 	path = prebuilts/devtools
 	url = ../../prebuilts/devtools
+[submodule "platform/prebuilts/gcc/darwin-x86/host/headers"]
+	branch = main
+	shallow = true
+	path = prebuilts/gcc/darwin-x86/host/headers
+	url = ../../prebuilts/gcc/darwin-x86/host/headers
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
 	branch = main
 	shallow = true
@@ -4274,6 +4279,7 @@
 	url = ../../../toolchain/pgo-profiles
 [submodule "toolchain/prebuilts/ndk/releases"]
 	branch = main
+	shallow = true
 	path = toolchain/prebuilts/ndk/releases
 	url = ../../../toolchain/prebuilts/ndk/releases
 [submodule "toolchain/prebuilts/sysroot/platform/riscv64-linux-android"]
