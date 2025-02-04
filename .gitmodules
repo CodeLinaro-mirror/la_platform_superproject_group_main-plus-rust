@@ -4305,6 +4305,10 @@
 	branch = main
 	path = trusty/device/arm/vexpress-a15
 	url = ../../../trusty/device/arm/vexpress-a15
+[submodule "trusty/device/common"]
+	branch = main
+	path = trusty/device/common
+	url = ../../../trusty/device/common
 [submodule "trusty/device/desktop"]
 	branch = main
 	path = trusty/device/desktop
