@@ -1672,7 +1672,7 @@
 	path = external/libxkbcommon
 	url = ../../external/libxkbcommon
 [submodule "platform/external/libxml2"]
-	branch = llvm-r536225-release
+	branch = main
 	path = external/libxml2
 	url = ../../external/libxml2
 [submodule "platform/external/libyuv"]
@@ -2403,7 +2403,7 @@
 	path = external/tinyxml2
 	url = ../../external/tinyxml2
 [submodule "platform/external/toolchain-utils"]
-	branch = llvm-r536225-release
+	branch = main
 	path = external/toolchain-utils
 	url = ../../external/toolchain-utils
 [submodule "platform/external/toybox"]
@@ -2543,7 +2543,7 @@
 	path = external/zopfli
 	url = ../../external/zopfli
 [submodule "platform/external/zstd"]
-	branch = llvm-r536225-release
+	branch = main
 	path = external/zstd
 	url = ../../external/zstd
 [submodule "platform/external/zucchini"]
@@ -3448,7 +3448,7 @@
 	path = prebuilts/bazel/linux-x86_64
 	url = ../../prebuilts/bazel/linux-x86_64
 [submodule "platform/prebuilts/build-tools"]
-	branch = llvm-r536225-release
+	branch = main
 	shallow = true
 	path = prebuilts/build-tools
 	url = ../../prebuilts/build-tools
@@ -3493,7 +3493,7 @@
 	path = prebuilts/cmake/darwin-x86
 	url = ../../prebuilts/cmake/darwin-x86
 [submodule "platform/prebuilts/cmake/linux-x86"]
-	branch = llvm-r536225-release
+	branch = main
 	shallow = true
 	path = prebuilts/cmake/linux-x86
 	url = ../../prebuilts/cmake/linux-x86
@@ -3518,22 +3518,22 @@
 	path = prebuilts/gcc/darwin-x86/host/headers
 	url = ../../prebuilts/gcc/darwin-x86/host/headers
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"]
-	branch = llvm-r536225-release
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 	url = ../../prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"]
-	branch = llvm-r536225-release
+	branch = main
 	shallow = true
 	path = prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 	url = ../../prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8
 [submodule "platform/prebuilts/go/darwin-x86"]
-	branch = llvm-r536225-release
+	branch = main
 	shallow = true
 	path = prebuilts/go/darwin-x86
 	url = ../../prebuilts/go/darwin-x86
 [submodule "platform/prebuilts/go/linux-x86"]
-	branch = llvm-r536225-release
+	branch = main
 	shallow = true
 	path = prebuilts/go/linux-x86
 	url = ../../prebuilts/go/linux-x86
